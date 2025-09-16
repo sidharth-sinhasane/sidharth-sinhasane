@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sidharth.sinhasane@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1in-JmOwW4opzr7J4SpTZrMMp9hBkIwRC/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HZ22R8PogAmVMLw8n-kzC3ex66PLKZNk/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sidharth-sinhasane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidharth-sinhasane" height="30" width="40" /></a>
